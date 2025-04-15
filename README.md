@@ -6,3 +6,6 @@
 
 ### 4/9/2025
 - leg day (squats, leg press, RDL)
+
+### 4/15/2025
+- pull day
